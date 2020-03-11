@@ -10,7 +10,7 @@ and open the template in the editor.
 
 body{
     background-image: url(BG.jpg);
-   font-family: Arial , sans-serif;
+   font-family: 'Times New Roman', Times, serif;
 }
 #conteudo{
     position: absolute;
